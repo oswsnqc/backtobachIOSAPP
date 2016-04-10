@@ -13,6 +13,9 @@
 		8375238F1B37C31900CC6659 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8375238E1B37C31900CC6659 /* Images.xcassets */; };
 		837523921B37C31900CC6659 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 837523901B37C31900CC6659 /* LaunchScreen.xib */; };
 		8375239E1B37C31A00CC6659 /* Back_To_BachTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8375239D1B37C31A00CC6659 /* Back_To_BachTests.swift */; };
+		837523A91B37C3D600CC6659 /* Johann_Sebastian_Bach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 837523A71B37C3D600CC6659 /* Johann_Sebastian_Bach.jpg */; };
+		837523AA1B37C3D600CC6659 /* bach1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 837523A81B37C3D600CC6659 /* bach1.mp3 */; };
+		837523AC1B37CAA800CC6659 /* light_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 837523AB1B37CAA800CC6659 /* light_yellow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		837523971B37C31A00CC6659 /* Back To BachTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Back To BachTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8375239C1B37C31A00CC6659 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8375239D1B37C31A00CC6659 /* Back_To_BachTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Back_To_BachTests.swift; sourceTree = "<group>"; };
+		837523A71B37C3D600CC6659 /* Johann_Sebastian_Bach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Johann_Sebastian_Bach.jpg; sourceTree = "<group>"; };
+		837523A81B37C3D600CC6659 /* bach1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bach1.mp3; sourceTree = "<group>"; };
+		837523AB1B37CAA800CC6659 /* light_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = light_yellow.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +85,9 @@
 			children = (
 				837523871B37C31900CC6659 /* AppDelegate.swift */,
 				837523891B37C31900CC6659 /* ViewController.swift */,
+				837523A71B37C3D600CC6659 /* Johann_Sebastian_Bach.jpg */,
+				837523AB1B37CAA800CC6659 /* light_yellow.png */,
+				837523A81B37C3D600CC6659 /* bach1.mp3 */,
 				8375238B1B37C31900CC6659 /* Main.storyboard */,
 				8375238E1B37C31900CC6659 /* Images.xcassets */,
 				837523901B37C31900CC6659 /* LaunchScreen.xib */,
@@ -192,6 +201,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				837523A91B37C3D600CC6659 /* Johann_Sebastian_Bach.jpg in Resources */,
+				837523AA1B37C3D600CC6659 /* bach1.mp3 in Resources */,
+				837523AC1B37CAA800CC6659 /* light_yellow.png in Resources */,
 				8375238D1B37C31900CC6659 /* Main.storyboard in Resources */,
 				837523921B37C31900CC6659 /* LaunchScreen.xib in Resources */,
 				8375238F1B37C31900CC6659 /* Images.xcassets in Resources */,
